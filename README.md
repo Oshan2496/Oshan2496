@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend and backend developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oshan2496&label=Profile%20views&color=0e75b6&style=flat" alt="oshan2496" /> </p>
-<img src="https://img.shields.io/github/followers/sujon12210?label=Followers&style=flat&color=0e75b6" /> </p>
+<img src="https://img.shields.io/github/followers/oshan2496?label=Followers&style=flat&color=0e75b6" /> </p>
 
 - 🌱 I’m currently learning **at ICBT**
 
